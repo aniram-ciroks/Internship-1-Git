@@ -2,5 +2,5 @@ Marina Skorić ima x pobjeda i y poraza!
 Josipa Šaravanja ima z pobjeda i n poraza!
 
 o . .
-. x .
+x x .
 . . .
