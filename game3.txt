@@ -1,6 +1,6 @@
-Marina Skorić ima 2 pobjeda i 0 poraza!
-Josipa Šaravanja ima 0 pobjeda 2 n poraza!
+Marina Skorić ima 2 pobjeda i 1 poraza!
+Josipa Šaravanja ima 1 pobjeda 2 n poraza!
 
 o x .
 o x x
-. o x
+o o x
